@@ -68,9 +68,17 @@ Temos acesso a cursos, mentorias, tutorias e desafios práticos. É um treinamen
 
 Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos:
 
-- 🔍 [ColorZilla – Extensão para navegador (captura de cores)](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?authuser=0&pli=1)
+- 🔍 [ColorZilla – Extensão para navegador que captura de cores](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?authuser=0&pli=1)
 - 🌈 [CSS Gradient – Criador de gradientes para fundo](https://cssgradient.io/)
-- 🎨 [Adobe Color – Roda de cores com harmonia](https://color.adobe.com/pt/create/color-wheel)
+- 🎨 [Adobe Color – Paleta de cores](https://color.adobe.com/pt/create/color-wheel)
+- 🎨 [Google Color](https://partnermarketinghub.withgoogle.com/brands/google-news/visual-identity/color-palette/)
+- 🎨 [Meu favorito para paletas](https://colorhunt.co/)
+- 📝 [Padlet - murais virtuais interativos e colaborativos](https://padlet.com/).
+- ☁️ [Guia HTML](https://htmlreference.io/).
+- 📦 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+- 🌈 [Desafios CSS ao longo de 100 dias](https://100dayscss.com/)
+- ☁️ [Referências e documentação](https://developer.mozilla.org/pt-BR/)
+- 🐸 [Jogo CSS](https://flexboxfroggy.com/#pt.br)
 
 ---
 
@@ -81,3 +89,41 @@ Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos
 - 🧠 Nomeie suas classes com clareza, usando palavras sem acento ou espaços.
 - 🔧 Teste seu site em navegadores diferentes (Chrome, Firefox, Edge) para ver se está tudo certo.
 - 🔍 Use a ferramenta de inspeção do navegador (F12) para entender e ajustar o layout.
+- 🔧 CodePen [ambiente de desenvolvimento online](https://codepen.io/)
+- 🔧 Pastebin, dotpad - cola código
+  
+
+---
+
+## 👩🏽‍💻 Atalhos VS Code
+
+-  Ctrl + S = salvar
+-  Ctrl + : ou ; = comentar tudo
+-  Alt + Shift + f = identar (seleciona + tab)
+-  Ctrl + d = seleciona para mudar a letra
+-  Ctrl + Shift + b = chama comandos
+-  Ctrl + p = pesquisa arquivo
+-  Ctrl + Shift + i = formatar no prettier, é identação)
+-  Ctrl + f ou LUPA = replace
+-  digita ul li*5 (número que deseja e cria linhas)
+-  digita nav#mynav>ul>li*3 = cria tudo isso
+-  Ctrl + Shift + p = settings, chama tipos de comando
+-  Ctrl + x = recortar
+
+---
+
+## 🧩 Extensões VS Code
+
+-  Dracula Theme ou Theme
+-  Live Server
+-  GitLens: aprimora histórico de versões (git).
+-  Error Lens: erros e avisos.
+-  HTML Preview ou Live Preview: cria uma pré-visualização interativa, exibindo as alterações em tempo real à medida que você edita o código.
+-  Prettier Code Formatter: formatador de código, corrige aspectos como espaçamentos, vírgulas, identação etc.
+-  Code Spell Checker: destaca erros de script enquanto você digita, ajudando a prevenir erros e melhorar a legibilidade do código.
+-  Brazilian portuguese code spell (versão br da extensão acima).
+-  Material Icon Theme
+-  Container Tools
+
+
+
