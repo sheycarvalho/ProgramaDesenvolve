@@ -119,7 +119,7 @@ Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos
 -  GitLens: aprimora histórico de versões (git).
 -  Error Lens: erros e avisos.
 -  HTML Preview ou Live Preview: cria uma pré-visualização interativa, exibindo as alterações em tempo real à medida que você edita o código.
--  Prettier Code Formatter: formatador de código, corrige aspectos como espaçamentos, vírgulas, identação etc.
+-  Prettier Code Formatter: formatador de código, corrige espaçamentos, vírgulas, identação etc.
 -  Code Spell Checker: destaca erros de script enquanto você digita, ajudando a prevenir erros e melhorar a legibilidade do código.
 -  Brazilian portuguese code spell (versão br da extensão acima).
 -  Material Icon Theme
