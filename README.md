@@ -1,12 +1,13 @@
 📚 Repositório dedicado ao Programa Desenvolve do Grupo Boticário + Plataforma Koru!
 
 ✨ Detalhamento das fases:
-Fase 1 - Curso de Fundamento em dados e Inteligência Artificial
-Fase 2 - Especialização em Tech: Desenvolvimento de Software
 
-Temos acesso a cursos, mentorias, tutorias e desafios práticos. É um treinamento intensivo de 17/04/2025 a 10/10/2025.
+Fase 1 - Curso de Fundamento em dados e Inteligência Artificial;
 
-📌 Diário de bordo técnico (todo aprendizado relevante para o projeto. segue abaixo).
+Fase 2 - Especialização em Tech: Desenvolvimento de Software;
+
+É um treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
+
 
 ## 🧩 Tags HTML utilizadas
 
@@ -66,19 +67,25 @@ Temos acesso a cursos, mentorias, tutorias e desafios práticos. É um treinamen
 
 ## 🎨 Ferramentas e links úteis
 
-Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos:
 
-- 🔍 [ColorZilla – Extensão para navegador que captura de cores](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?authuser=0&pli=1)
+- 📌 [ColorZilla – Extensão para navegador que captura cores](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?authuser=0&pli=1)
 - 🌈 [CSS Gradient – Criador de gradientes para fundo](https://cssgradient.io/)
 - 🎨 [Adobe Color – Paleta de cores](https://color.adobe.com/pt/create/color-wheel)
 - 🎨 [Google Color](https://partnermarketinghub.withgoogle.com/brands/google-news/visual-identity/color-palette/)
-- 🎨 [Meu favorito para paletas](https://colorhunt.co/)
+- 🎨 [Meu favorito para paletas de cores](https://colorhunt.co/)
 - 📝 [Padlet - murais virtuais interativos e colaborativos](https://padlet.com/).
-- ☁️ [Guia HTML](https://htmlreference.io/).
+- 💻 [Guia HTML](https://htmlreference.io/).
 - 📦 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+- 📦 [Guia Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - 🌈 [Desafios CSS ao longo de 100 dias](https://100dayscss.com/)
-- ☁️ [Referências e documentação](https://developer.mozilla.org/pt-BR/)
+- 💻 [Referências e documentação](https://developer.mozilla.org/pt-BR/)
+- 💻 [Tutoriais de desenvolvimento web geral: LER TUDO](https://www.w3schools.com/)
 - 🐸 [Jogo CSS](https://flexboxfroggy.com/#pt.br)
+- 🐸 [Jogo CSS](https://cssgridgarden.com/)
+- 🐸 [Jogo CSS](https://mastery.games/flexboxzombies/)
+- 👩‍💻 [Favicon](https://fontawesome.com/icons)
+- 👩‍💻 [Favicon](https://fonts.google.com/icons)
+- 👩‍💻 [Favicon](https://phosphoricons.com/)
 
 ---
 
@@ -87,8 +94,6 @@ Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos
 - ✅ Valide seu HTML em [W3C Validator](https://validator.w3.org/) para verificar erros.
 - 🌐 Use [Google Fonts](https://fonts.google.com/) para adicionar fontes personalizadas.
 - 🧠 Nomeie suas classes com clareza, usando palavras sem acento ou espaços.
-- 🔧 Teste seu site em navegadores diferentes (Chrome, Firefox, Edge) para ver se está tudo certo.
-- 🔍 Use a ferramenta de inspeção do navegador (F12) para entender e ajustar o layout.
 - 🔧 CodePen [ambiente de desenvolvimento online](https://codepen.io/)
 - 🔧 Pastebin, dotpad - cola código
   
@@ -124,6 +129,10 @@ Ferramentas compartilhadas pelos colegas na aula para escolha de cores e estilos
 -  Brazilian portuguese code spell (versão br da extensão acima).
 -  Material Icon Theme
 -  Container Tools
+
+  ---
+
+## 🧩 Terminal e Comandos Git
 
 
 
