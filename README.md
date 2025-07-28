@@ -6,7 +6,7 @@ Fase 1 - Curso de Fundamento em dados e Inteligência Artificial;
 
 Fase 2 - Especialização em Tech: Desenvolvimento de Software;
 
-É um treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
+Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 
 
 ## 🧩 Tags HTML utilizadas
@@ -75,6 +75,8 @@ Fase 2 - Especialização em Tech: Desenvolvimento de Software;
 - 🎨 [Meu favorito para paletas de cores](https://colorhunt.co/)
 - 📝 [Padlet - murais virtuais interativos e colaborativos](https://padlet.com/).
 - 💻 [Guia HTML](https://htmlreference.io/).
+- 📦 [Guia Markdown](https://ileriayo.github.io/markdown-badges/)
+- 📦 [Guia Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - 📦 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
 - 📦 [Guia Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - 🌈 [Desafios CSS ao longo de 100 dias](https://100dayscss.com/)
@@ -86,6 +88,9 @@ Fase 2 - Especialização em Tech: Desenvolvimento de Software;
 - 👩‍💻 [Favicon](https://fontawesome.com/icons)
 - 👩‍💻 [Favicon](https://fonts.google.com/icons)
 - 👩‍💻 [Favicon](https://phosphoricons.com/)
+- 📝 [Sintaxe JS](https://learnxinyminutes.com/pt-br/javascript/).
+- 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/).
+- 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/).
 
 ---
 
@@ -134,5 +139,30 @@ Fase 2 - Especialização em Tech: Desenvolvimento de Software;
 
 ## 🧩 Terminal e Comandos Git
 
+-  git init
+-  git status
+-  git add .
+-  git commit -m "mensagem"
+-  git remote add origin https://github.com/rafaeltedesco/academia_de_logica.git (shift + insert)
+-  git push -u origin master
+-  git pull
 
+-  git config --global user email "email@gmail.com"
+-  git congig --global user name "Seu Nome"
+
+-  git log - histórico de commits
+-  git lens - mostra horário e quem editou
+-  git branch -M main - escolhe a branch
+-  git checkout -b main - checar a branch
+-  git remote - mostra se foi para o repositório
+-  git clone - clona repositório
+
+-  .env - coloca dados sensiveis)
+-  .gitignore (.env)
+
+- mkdir koru_crypto (cria pasta koru)
+- cd koru crypto (entra na pasta)
+-  ls -la ou ls -l (ls mostra tudo)
+-  code .
+-  rm -rf koru_crypto (remove essa pasta)
 
