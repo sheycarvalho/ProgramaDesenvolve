@@ -73,8 +73,8 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 🎨 [Adobe Color – Paleta de cores](https://color.adobe.com/pt/create/color-wheel)
 - 🎨 [Google Color](https://partnermarketinghub.withgoogle.com/brands/google-news/visual-identity/color-palette/)
 - 🎨 [Meu favorito para paletas de cores](https://colorhunt.co/)
-- 📝 [Padlet - murais virtuais interativos e colaborativos](https://padlet.com/).
-- 💻 [Guia HTML](https://htmlreference.io/).
+- 📝 [Padlet - murais virtuais interativos e colaborativos](https://padlet.com/)
+- 💻 [Guia HTML](https://htmlreference.io/)
 - 📦 [Guia Markdown](https://ileriayo.github.io/markdown-badges/)
 - 📦 [Guia Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - 📦 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
@@ -88,8 +88,8 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 👩‍💻 [Favicon](https://fontawesome.com/icons)
 - 👩‍💻 [Favicon](https://fonts.google.com/icons)
 - 👩‍💻 [Favicon](https://phosphoricons.com/)
-- 📝 [Sintaxe JS](https://learnxinyminutes.com/pt-br/javascript/).
-- 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/).
+- 📝 [Sintaxe JS](https://learnxinyminutes.com/pt-br/javascript/)
+- 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/)
 - 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/).
 
 ---
