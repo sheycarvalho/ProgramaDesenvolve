@@ -90,7 +90,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 👩‍💻 [Favicon](https://phosphoricons.com/)
 - 📝 [Sintaxe JS](https://learnxinyminutes.com/pt-br/javascript/)
 - 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/)
-- 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/).
+- 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/)
 
 ---
 
