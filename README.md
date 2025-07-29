@@ -83,6 +83,8 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 💻 [Referências e documentação](https://developer.mozilla.org/pt-BR/)
 - 💻 [Tutoriais de desenvolvimento web geral: LER TUDO](https://www.w3schools.com/)
 - 💻 [API grauitas](https://www.freepublicapis.com/free-movie-api)
+- 💻 [API Pokémon](https://pokeapi.co/#google_vignette)
+- 💻 [API anime](https://github.com/ShivaBhattacharjee/AnimeTrix?tab=readme-ov-file)
 - 🐸 [Jogo CSS](https://flexboxfroggy.com/#pt.br)
 - 🐸 [Jogo CSS](https://cssgridgarden.com/)
 - 🐸 [Jogo CSS](https://mastery.games/flexboxzombies/)
@@ -90,6 +92,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 👩‍💻 [Favicon](https://fonts.google.com/icons)
 - 👩‍💻 [Favicon](https://phosphoricons.com/)
 - 📝 [Sintaxe JS](https://learnxinyminutes.com/pt-br/javascript/)
+- 📝 [Sintaxe JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 - 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/)
 - 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/)
 
