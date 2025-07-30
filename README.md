@@ -129,15 +129,37 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 ## 🧩 Extensões VS Code
 
 -  Dracula Theme ou Theme
--  Live Server
+-  Live Server: Permite ver sua página HTML no navegador e atualizá-la automaticamente.
 -  GitLens: aprimora histórico de versões (git).
 -  Error Lens: erros e avisos.
 -  HTML Preview ou Live Preview: cria uma pré-visualização interativa, exibindo as alterações em tempo real à medida que você edita o código.
--  Prettier Code Formatter: formatador de código, corrige espaçamentos, vírgulas, identação etc.
+-  Prettier Code Formatter: formatador de código, corrige espaçamentos, vírgulas, identação etc. Mantém o código limpo e padronizado automaticamente.
 -  Code Spell Checker: destaca erros de script enquanto você digita, ajudando a prevenir erros e melhorar a legibilidade do código.
 -  Brazilian portuguese code spell (versão br da extensão acima).
 -  Material Icon Theme
 -  Container Tools
+
+       Configurar o Prettier:
+   
+       Abrir as Configurações (Ctrl+, ou Cmd+, ou menu File > Preferences > Settings).
+
+       Buscar por “Format On Save”.
+
+       Marcar a caixa de seleção “Editor: Format On Save”.
+
+       (Opcional) Buscar por “Default Formatter” e garantir que “Prettier – Code formatter” esteja selecionado.
+
+       Criar uma pasta chamada vscode-extensoes no computador.
+
+       Abrir esta pasta no VSCode (File > Open Folder...).
+
+       Criar um arquivo index.html simples (pode usar ! + Tab para estrutura básica).
+
+       Clicar com o botão direito no arquivo teste.html no Explorer e escolher “Open with Live Server” (ou clicar no botão "Go Live" na Barra de Status). Observar o navegador abrir.
+
+       Fazer uma pequena alteração no teste.html e salvar (Ctrl+S). Observar o Prettier formatando (se necessário) e o Live Server atualizando o navegador automaticamente.
+
+       Testar o Spell Checker: Adicionar um comentário no HTML com um erro de digitação (ex.: <!-- Este é um comenttario -->) ou um texto dentro de uma tag com o erro (ex.: <p>Bem-vindo!</p>). Observar se o Spell Checker sublinha a palavra incorreta. Passar o mouse sobre a palavra ou usar Ctrl+./Cmd+. para ver sugestões de correção.
 
   ---
 
@@ -169,4 +191,17 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 -  ls -la ou ls -l (ls mostra tudo)
 -  code .
 -  rm -rf koru_crypto (remove essa pasta)
+
+   ***Edição Eficiente***
+
+    - Multi-cursor: Ativação (ex: Alt+Click, Ctrl+Alt+Down/Up, selecionar texto e Ctrl+D/Cmd+D para selecionar próximas ocorrências) e seus casos de uso (editar várias linhas iguais, adicionar classes/atributos a múltiplos elementos).
+
+    - Find and Replace: Abrir (Ctrl+F/Cmd+F para localizar, Ctrl+H/Cmd+H para substituir) e opções básicas (substituir um, substituir todos, diferenciar maiúsculas/minúsculas).
+
+
+
+
+
+
+
 
