@@ -17,7 +17,7 @@ https://www.youtube.com/playlist?list=PLnb0jIQ3sHMR86M1_qdr493Hu7sSfaqTi
 
 Todos os tópicos por módulos
 
-✨HTNML, CSS, JavaScript, Lógica e Fundamentos, Estruturas, Python, React-Redux, APIs, node.js, Requisições HTTP, Deploy, Microsserviços-Docker, GitHub Actions, Kubernetes, Testes, React Native, Role Playing, Segurança, Portfolio, Git e GitHub
+✨HTML, CSS, JavaScript, Lógica e Fundamentos, Estruturas, Python, React-Redux, APIs, node.js, Requisições HTTP, Deploy, Microsserviços-Docker, GitHub Actions, Kubernetes, Testes, React Native, Role Playing, Segurança, Portfolio, Git e GitHub
 
 Dicas da área
 
