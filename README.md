@@ -79,6 +79,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 📦 [Guia Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - 📦 [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
 - 📦 [Guia Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- 📚 [Livro GIT PRO](https://git-scm.com/book/pt-br/v2)
 - 🌈 [Desafios CSS ao longo de 100 dias](https://100dayscss.com/)
 - 💻 [Referências e documentação](https://developer.mozilla.org/pt-BR/)
 - 💻 [Tutoriais de desenvolvimento web geral: LER TUDO](https://www.w3schools.com/)
@@ -170,7 +171,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 -  git add .
 -  git commit -m "mensagem"
 -  git remote add origin https://github.com/rafaeltedesco/academia_de_logica.git (shift + insert)
--  git push -u origin master
+-  git push -u origin main
 -  git pull
 
 -  git config --global user email "email@gmail.com"
@@ -178,6 +179,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 
 -  git log - histórico de commits
 -  git lens - mostra horário e quem editou
+-  git branch - verifica a branch
 -  git branch -M main - escolhe a branch
 -  git checkout -b main - checar a branch
 -  git remote - mostra se foi para o repositório
@@ -199,7 +201,46 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
     - Find and Replace: Abrir (Ctrl+F/Cmd+F para localizar, Ctrl+H/Cmd+H para substituir) e opções básicas (substituir um, substituir todos, diferenciar maiúsculas/minúsculas).
 
 
+# Como trabalhar usando branchs
 
+➡️**Clone o repositório:**
+`git clone https://github.com/etc etc`
+
+➡️**Criar e entrar na branch:**   
+Exemplo:   
+`git checkout -b projeto`  
+`git push -u origin projeto`   
+
+➡️**Trabalhar e enviar mudanças para a própria branch**  
+`git add .`  
+`git commit -m "descrição do coMmit"`  
+`git push`  
+
+➡️**Para enviar suas mudanças para a main, crie um pull request no github**  
+1. No GitHub, clique em "Compare & pull request".
+2. Base branch = main
+3. Compare branch = sua branch
+4. Descreva as mudanças.
+5. Criar o PR.
+
+# 🛑Importante: 
+Antes de começar um novo dia de trabalho, o ideal é sincronizar sua branch com a main para garantir que você está trabalhando com a versão mais recente do projeto e evitar conflitos.
+
+➡️**Salve seu trabalho**  
+`git add .`  
+`git commit -m "salvando alterações antes de atualizar"`  
+
+➡️**Vá para a branch main**  
+`git checkout main`    
+
+➡️**Baixar as últimas alterações na main**  
+`git pull origin main`   
+
+➡️**Mesclar as mudanças da main na sua branch**  
+`git merge main`  
+
+➡️**Se aparecer conflitos, você resolve no editor de código e depois:**  
+`git add .`  
 
 
 
