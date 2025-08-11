@@ -89,6 +89,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 - 🐸 [Jogo CSS](https://flexboxfroggy.com/#pt.br)
 - 🐸 [Jogo CSS](https://cssgridgarden.com/)
 - 🐸 [Jogo CSS](https://mastery.games/flexboxzombies/)
+- 🐸 [Treinar branch](https://learngitbranching.js.org/?locale=pt_BR)
 - 👩‍💻 [Favicon](https://fontawesome.com/icons)
 - 👩‍💻 [Favicon](https://fonts.google.com/icons)
 - 👩‍💻 [Favicon](https://phosphoricons.com/)
@@ -204,7 +205,7 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 # Como trabalhar usando branchs
 
 ➡️**Clone o repositório:**
-`git clone https://github.com/etc etc`
+`git clone https://github.com/sheycarvalho/ProgramaDesenvolve.git`
 
 ➡️**Criar e entrar na branch:**   
 Exemplo:   
