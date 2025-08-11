@@ -9,6 +9,23 @@ Fase 2 - Especialização em Tech: Desenvolvimento de Software;
 Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
 
 
+## Aulas no youtube
+https://www.youtube.com/playlist?list=PLnb0jIQ3sHMR86M1_qdr493Hu7sSfaqTi
+
+
+## 📓 Notion (organização, produtividade e gerenciamento de tarefa)
+
+Todos os tópicos por módulos
+
+✨HTNML, CSS, JavaScript, Lógica e Fundamentos, Estruturas, Python, React-Redux, APIs, node.js, Requisições HTTP, Deploy, Microsserviços-Docker, GitHub Actions, Kubernetes, Testes, React Native, Role Playing, Segurança, Portfolio, Git e GitHub
+
+Dicas da área
+
+🎯Metas e objetivos, Tarefas, Cronogramas, Controle e Planejamento. Temas estudados, revisados e fixados
+
+https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_link
+
+
 ## 🧩 Tags HTML utilizadas
 
 | Tag              | Significado / Uso                                                   |
