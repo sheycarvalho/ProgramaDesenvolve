@@ -200,6 +200,8 @@ Treinamento intensivo com mentorias e tutorias de 17/04/2025 a 10/10/2025.
     - Multi-cursor: Ativação (ex: Alt+Click, Ctrl+Alt+Down/Up, selecionar texto e Ctrl+D/Cmd+D para selecionar próximas ocorrências) e seus casos de uso (editar várias linhas iguais, adicionar classes/atributos a múltiplos elementos).
 
     - Find and Replace: Abrir (Ctrl+F/Cmd+F para localizar, Ctrl+H/Cmd+H para substituir) e opções básicas (substituir um, substituir todos, diferenciar maiúsculas/minúsculas).
+ 
+ ---
 
 
 # Como trabalhar usando branchs
