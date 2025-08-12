@@ -114,6 +114,8 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 - 📝 [Sintaxe JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 - 📝 [Sintaxe Python](https://learnxinyminutes.com/pt-br/python/)
 - 📝 [Sintaxe TypeScript](https://learnxinyminutes.com/pt-br/typescript/)
+- 📝 [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+- 📝 [Git Flow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar)
 
 ---
 
