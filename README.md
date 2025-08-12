@@ -186,7 +186,7 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 
 -  git init
 -  git status
--  git add .
+-  git add . (adiciona tudo)
 -  git commit -m "mensagem"
 -  git remote add origin https://github.com/rafaeltedesco/academia_de_logica.git (shift + insert)
 -  git push -u origin main
@@ -197,9 +197,9 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 
 -  git log - histórico de commits
 -  git lens - mostra horário e quem editou
--  git branch - verifica a branch
+-  git branch - verifica a branch e faz listagem
 -  git branch -M main - escolhe a branch
--  git checkout -b main - checar a branch
+-  git checkout -b main - troca a branch
 -  git remote - mostra se foi para o repositório
 -  git clone - clona repositório
 
