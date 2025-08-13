@@ -149,7 +149,7 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 
 ---
 
-## 🧩 Extensões VS Code
+## 🕹️ Extensões VS Code
 
 -  Dracula Theme ou Theme
 -  Live Server: Permite ver sua página HTML no navegador e atualizá-la automaticamente.
@@ -186,7 +186,7 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 
   ---
 
-## 🧩 Terminal e Comandos Git
+## 🕹️ Terminal e Comandos Git
 
 -  git init
 -  git status
@@ -266,7 +266,38 @@ Antes de começar um novo dia de trabalho, o ideal é sincronizar sua branch com
 ➡️**Se aparecer conflitos, você resolve no editor de código e depois:**  
 `git add .`  
 
+---
 
+# 📚 Plataformas de Cursos Gratuitos
 
+https://ticemtrilhas.org.br/
+
+https://www.udemy.com/topic/react/?price=price-free&sort=most-reviewed
+
+https://www.cursoemvideo.com/cursos/
+
+https://www.dio.me/bootcamp
+
+https://www.alura.com.br/imersao
+
+https://www.programaria.org/cursos-programaria/
+
+https://womakerscode.org/
+
+https://www.cisco.com/c/pt_br/training-events/networking-academy/women-rock-it/courses.html
+
+https://www.ev.org.br/Cursos/
+
+https://www.datascienceacademy.com.br/cursosgratuitos
+
+https://mais.ifmg.edu.br/maisifmg/course/index.php?categoryid=10
+
+https://on.fiap.com.br/local/programaeucapacito/
+
+---
+
+# 📚 Modelo de Currículo
+
+https://docs.google.com/document/d/16SEtFMKyIa5tTGfHXW7fGKbgj5uybgxI/edit?tab=t.0
 
 
