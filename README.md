@@ -269,6 +269,54 @@ Antes de começar um novo dia de trabalho, o ideal é sincronizar sua branch com
 
 ---
 
+## 👩🏽‍💻 Typescript
+
+✨ Instalaçao
+- npm install typescript --save-dev
+- npx tsc -init
+
+--
+
+- index.ts
+- aula.ts
+- node_modules
+- .gitignore
+
+---
+
+## 👩🏽‍💻 React
+
+✨ react-todo-list cd
+
+- mkdir monitoria
+- cd monitoria
+- code .
+
+-- 
+
+
+- npm create vite@latest my-project
+- cd my-project
+- react
+- javascript
+
+-- 
+
+
+- cd my-project
+- npm install
+- npm run dev
+
+--
+
+- npm install tailwindcss @tailwindcss/vite
+
+
+
+
+
+---
+
 # 📚 Plataformas de Cursos Gratuitos
 
 https://ticemtrilhas.org.br/
