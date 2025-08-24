@@ -118,6 +118,7 @@ https://www.notion.so/Planner-2025-2409c7245d01809a9e96fdd2e4da2b38?source=copy_
 - 📝 [Git Flow](https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar)
 - 📝 [componentes React com uma arquitetura escalável usando Atomic Design](https://medium.com/rd-shipit/como-criar-componentes-react-com-uma-arquitetura-escal%C3%A1vel-usando-atomic-design-74a67aaf47e0)
 - 📝 [Thinking in React](https://react.dev/learn/thinking-in-react)
+- 📝 [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 
 ---
 
